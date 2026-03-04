@@ -1,10 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Lista de palavras-alvo (5 letras)
     const words = [
-        "ABRIR", "AMIGO", "BANHO", "CAIXA", "DIZER",
-        "FALAR", "GOSTO", "HORAS", "JOGAR", "LIVRO", 
-        "NOITE", "OCUPA", "PAPEL", "QUASE",
-        "RADIO", "SABER", "TARDE", "UNIDO", "VIVER"
+        "DEHYA", "AMBER", "KAEYA", "RAZOR", "DILUC",
+        "VENTI", "DIONA", "GANYU", "HUTAO", "KUJOU", 
+        "THOMA", "GOROU", "YELAN", "NILOU", "VARKA",
+        "LAYLA", "KAVEH", "LYNEY", "NAVIA", "SKIRK",
+        "LAUMA", "FLINS", "NEFER", "DURIN", "ZIBAI"
     ];
 
     // Elementos do DOM
